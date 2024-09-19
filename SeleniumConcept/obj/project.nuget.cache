@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChADMgR0plc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\6124711\\source\\repos\\AutomationSolution\\SeleniumConcept\\SeleniumConcept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6124711\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
+    "C:\\Users\\6124711\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

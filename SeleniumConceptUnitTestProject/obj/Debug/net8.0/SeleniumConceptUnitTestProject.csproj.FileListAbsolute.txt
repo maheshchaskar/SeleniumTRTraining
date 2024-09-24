@@ -102,3 +102,4 @@ C:\Users\6124711\source\repos\AutomationSolution\SeleniumConceptUnitTestProject\
 C:\Users\6124711\source\repos\AutomationSolution\SeleniumConceptUnitTestProject\obj\Debug\net8.0\SeleniumConceptUnitTestProject.pdb
 C:\Users\6124711\source\repos\AutomationSolution\SeleniumConceptUnitTestProject\obj\Debug\net8.0\SeleniumConceptUnitTestProject.genruntimeconfig.cache
 C:\Users\6124711\source\repos\AutomationSolution\SeleniumConceptUnitTestProject\obj\Debug\net8.0\ref\SeleniumConceptUnitTestProject.dll
+C:\Users\6124711\source\repos\AutomationSolution\SeleniumConceptUnitTestProject\obj\Debug\net8.0\SeleniumConceptUnitTestProject.sourcelink.json

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept", "Selenium
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{4999B0FE-090E-4581-9E6E-6FE13100C3AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAssignment", "SeleniumAssignment\SeleniumAssignment.csproj", "{D5F33840-212C-4FF4-9921-C62819BD8E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumAssignment", "SeleniumAssignment\SeleniumAssignment.csproj", "{D5F33840-212C-4FF4-9921-C62819BD8E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConceptUnitTestProject", "SeleniumConceptUnitTestProject\SeleniumConceptUnitTestProject.csproj", "{37F02B26-CDCF-40ED-9325-8878AEF15471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D5F33840-212C-4FF4-9921-C62819BD8E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5F33840-212C-4FF4-9921-C62819BD8E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5F33840-212C-4FF4-9921-C62819BD8E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F02B26-CDCF-40ED-9325-8878AEF15471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F02B26-CDCF-40ED-9325-8878AEF15471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F02B26-CDCF-40ED-9325-8878AEF15471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F02B26-CDCF-40ED-9325-8878AEF15471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

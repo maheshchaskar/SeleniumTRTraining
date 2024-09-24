@@ -10,7 +10,7 @@ namespace SeleniumAssignment
 {
     public class PhpMyAdmin
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             IWebDriver driver=new ChromeDriver();
 

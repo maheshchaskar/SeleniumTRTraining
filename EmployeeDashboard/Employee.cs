@@ -28,7 +28,7 @@ namespace EmployeeDashboard
         }
 
 
-        public int empID
+        public int EmpID
         {
             get
             {
@@ -49,7 +49,7 @@ namespace EmployeeDashboard
 
         //set property should validate and accept empPerformance only if it A or B or C
 
-        public String empPerformance
+        public String EmpPerformance
         {
           
             set
